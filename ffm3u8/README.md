@@ -1,0 +1,3 @@
+ffm3u8模块是一个简单下载ts文件的模块
+ffm3u8使用了requests, aiohttp,  asyncio, Crypto库在此非常感谢以上库的作者及团队的贡献
+它可以从你提供的m3u8文件里获取ts文件的url并请求保存,它还有简单的AES解密
